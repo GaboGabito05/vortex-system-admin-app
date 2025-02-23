@@ -3,8 +3,6 @@
 
 ### **.gitignore**
 
-El archivo `.gitignore` se usa para evitar que ciertos archivos y carpetas se suban al repositorio de Git. Aquí tienes un ejemplo básico para tu proyecto:
-
 ```plaintext
 # Ignorar archivos de configuración local
 /config.php
